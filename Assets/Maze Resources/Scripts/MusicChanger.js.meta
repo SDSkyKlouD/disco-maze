@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6f93aeea9a3234c42976f02bf51d2bdb
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - audioClip1: {fileID: 8300000, guid: 3b43440841f5f9c46878c77ba650560a, type: 3}
+  - audioClip2: {fileID: 8300000, guid: 4f5189afe1f33214c9e6a0779c4a59fe, type: 3}
+  - audioClip3: {fileID: 8300000, guid: 58b4aa00727a57a43a74883327359c61, type: 3}
+  - audioClip4: {fileID: 8300000, guid: ae45adb94faf8084ca9e4cd2e0d0a212, type: 3}
+  - audioClip5: {fileID: 8300000, guid: 8b8f4022f4424734e80ad361dd818d8b, type: 3}
+  - audioClip6: {fileID: 8300000, guid: 3e3286d8a0a34c0458d50c5854ad6379, type: 3}
+  - audioClip7: {fileID: 8300000, guid: 5a6c8edc692e68a458cb5611ccf099ba, type: 3}
+  - audioClip8: {fileID: 8300000, guid: a403941723da2c74c8866fe0807d6ab5, type: 3}
+  - audioClip9: {fileID: 8300000, guid: d80e94ac938f3994d8fde6247975b0da, type: 3}
+  - audioClip10: {fileID: 8300000, guid: 025ceab0459d57e4ebe9dcfbf0971c55, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
